@@ -1,0 +1,4 @@
+baseURL = 'https://awesome-hugo.github.io/Hugoplate/'
+languageCode = 'en-us'
+title = 'Hugoplate'
+theme = 'hugoplate'
